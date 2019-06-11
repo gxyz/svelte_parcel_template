@@ -5,7 +5,8 @@
   "license": "MIT",
   "private": true,
   "scripts": {
-    "start": "parcel index.html --no-cache"
+    "start": "parcel index.html --no-cache",
+    "start": "parcel build index.html --no-cache"
   },
   "dependencies": {
     "parcel-bundler": "^1.11.0",
